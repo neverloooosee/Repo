@@ -19,3 +19,4 @@ data point 2021-01-02-8
 data point 2021-01-02-9
 data point 2021-01-02-10
 data point 2021-01-03-1
+data point 2021-01-03-2
