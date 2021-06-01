@@ -1508,3 +1508,4 @@ data point 2021-05-31-7
 data point 2021-05-31-8
 data point 2021-05-31-9
 data point 2021-05-31-10
+data point 2021-06-01-1
